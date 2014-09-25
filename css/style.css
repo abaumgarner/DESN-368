@@ -1,0 +1,15 @@
+/* Selector, property, value */
+h1 
+{
+ color: blue; 
+}
+
+li
+{
+  color: orange;
+}
+
+body
+{
+  background: #1010;
+}
